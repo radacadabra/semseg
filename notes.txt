@@ -1,0 +1,4 @@
+Initial training voc2012, batch 8, workers 6, epochs 10 (stopped after 2),
+
+Train result at epoch [1/10]: mIoU/mAcc/allAcc 0.1886/0.2415/0.7153.
+Train result at epoch [2/10]: mIoU/mAcc/allAcc 0.3567/0.4472/0.7936.
